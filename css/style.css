@@ -1,0 +1,128 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #948c76;
+}
+
+body {
+	font-size: .14rem;
+	margin: .5rem auto 0;
+	color: #787978;
+	font-family: Microsoft Yahei;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	max-width: 800px;
+	width: 100%;
+	height: auto;
+	position: relative;
+	background: url(../img/bg.3e86f279.jpg) repeat;
+	background-image: url(../img/bg.3e86f279.jpg);
+	background-position-x: initial;
+	background-position-y: initial;
+	background-size: initial;
+	background-repeat-x: repeat;
+	background-repeat-y: repeat;
+	background-attachment: initial;
+	background-origin: initial;
+	background-clip: initial;
+	background-color: initial;
+}
+
+.zc {
+	/* height: 2000px; */
+	margin-top: 50px;
+}
+
+.header {
+	width: 100%;
+	height: 250px;
+	text-align: center;
+}
+
+.logo_pic {
+	animation: fadein 0.3s;
+}
+
+.logo_pic img {
+	width: 40vw;
+	height: 40vw;
+	max-width: 120px;
+	max-height: 120px;
+	border-radius: 50%;
+}
+
+.header .myid {
+	font-size: 6.3em;
+	font-weight: 400;
+	padding: 5px 29px;
+	letter-spacing: .1em;
+	line-height: 2em;
+	margin: 2em 0;
+	display: inline-block;
+	color: #948c76;
+	background: #fdf4e8;
+}
+
+.header .my_sort {
+	margin-bottom: 2em;
+}
+
+.header .my_sort a {
+	display: inline-block;
+	margin: 0 1em;
+	font-size: .8em;
+}
+
+.contion {
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	/* height: 1200px; */
+	box-shadow: 1px 1px 8px rgba(0, 0, 0, .15);
+	background-color: #fff;
+	color: #3f1c1c;
+	font-size: 14px;
+}
+
+.grxx_1 {}
+
+.grxx_1 .fl_1 {
+	font-weight: 900 !important;
+}
+
+.grxx_1 .fl_2 {
+	font-size: 18px !important
+}
+
+.grxx_1 .fl_3 {
+	margin-bottom: 20px !important;
+}
+
+.grxx_1 h1 {
+	margin-left: -20px;
+	padding-left: 15px;
+	border-left: 5px solid #e38fa9;
+	text-align: left;
+	font-size: 14px;
+}
+.grxx_1 .tilet{
+	border: 2px solid transparent;
+    border-radius: 5px;
+	margin-left: 15px;
+}
+.grxx_1 .gr_con {
+	border: 2px solid transparent;
+	border-radius: 5px;
+	margin-bottom: 15px;
+	background-color: #f5f5f5;
+}
+.grxx_1 .b_1{
+	padding-bottom: 10px!important;
+}
+.grxx_1 .b_2{
+	padding-top: 10px!important;
+} 
